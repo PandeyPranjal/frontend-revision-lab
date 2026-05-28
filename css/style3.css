@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.heading{
+    color: aqua;
+    font-family: "press start 2p", "consolas";
+}
+.page3{
+    color: beige;
+    font-style: italic ;
+    font-size: 28px;
+    font-weight: bold;
+    text-decoration: underline wavy;
+}

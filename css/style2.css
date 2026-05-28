@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(19, 14, 14);
+    color: antiquewhite;
+}
+#p1{
+    background-color: tomato;
+    color: green;
+}
+.odd{
+    color: blue;
+}
+.even{
+    color: aqua;
+}
