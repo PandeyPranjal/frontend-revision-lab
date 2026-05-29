@@ -1,0 +1,23 @@
+#box1{
+    height:200px ;
+    width: 200px;
+    background-color: red;
+    border: 2px solid rgb(37, 45, 48);
+    /* position: static; it's by-default position */
+    /* position: relative; it gives a reserved position
+    top: 50px;
+    left: 100px; */
+    position: sticky; /* it becomes sticky to the viewport */
+    top: 20px;
+    bottom: 40px;
+
+}
+#box2{
+    height:100px ;
+    width: 100px;
+    background-color: rgb(45, 129, 151);
+    border: 2px solid rgb(30, 35, 30);
+    /* position: absolute; absolute is now like a ghost and will try to find a parent which is positioned such as relative or something else   */ 
+    top: 20px;
+    
+}

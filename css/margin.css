@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+#box1{
+    border: 20px solid rgb(70, 70, 131);
+    border-width: 11px;
+    border-radius: 5px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+    margin-left: 11px;
+    margin-right: 22px;
+    background-color: rgb(108, 69, 69);
+    padding: 22px;
+}
+
+/* or just simply use margin */
+#box2{
+    border: 11px solid green;
+    background-color: silver;
+    margin-left:50%;
+    /* margin-left: auto;
+    margin-right: auto; */
+    width: 250px;
+    height: 150px;
+    margin-top: 222px;
+    
+}

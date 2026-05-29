@@ -1,0 +1,23 @@
+a:link{
+    color: tomato;
+}
+a:visited{
+    color: grey;
+
+
+}
+a:hover{
+    color: aqua;
+}
+a:active{
+    color:rgb(215, 101, 166);
+}
+li:nth-child(4){
+    background-color: red;
+}
+li:nth-child(even){
+    background-color: yellow;
+}
+li:nth-child(odd){
+    background-color: grey;
+}
